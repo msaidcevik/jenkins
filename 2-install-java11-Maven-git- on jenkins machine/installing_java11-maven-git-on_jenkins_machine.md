@@ -58,3 +58,9 @@ sudo yum install git -y
   - Select `install automatically`
   - `Install from Apache` version `3.8.6`
 - Save
+
+## Part 4 - Install Plugins
+
+- Click Manage jenkins > Plugin Manager > Avaliable and write on the search bar
+    - deploy to container
+    - copy artifact plugins select and click on install without restart

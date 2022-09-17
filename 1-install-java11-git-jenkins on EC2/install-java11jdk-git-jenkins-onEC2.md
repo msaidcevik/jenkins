@@ -95,3 +95,9 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 - Click Jenkins’i Yönet > Eklentileri Yönet > Kullanılabilir and write locale on search bar then click Locale Plugin and click install without restart.
 
 - Click Jenkins’i Yönet > Sistem Konfigurasyonunu and find Locale and write English and click Ignore browser preference and force this language to all users then save.
+
+## Part 3 - Install Plugins
+
+- Click Manage jenkins > Plugin Manager > Avaliable and write on the search bar
+    - deploy to container
+    - copy artifact plugins select and click on install without restart
